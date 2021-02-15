@@ -17,4 +17,31 @@ body {
 	padding: 0 45px 20px;
 }
 
+h1 {
+	color: #a1b1ab;
+}
+
+h2 {
+	color: #737972;
+}
+
+p {
+	color: #6d7375;
+}
+
+p a {
+	color: blue;
+}
 /* Write all remaining styles here */
+
+.main {
+	border: 2px solid #414141;
+}
+
+.logo {
+	border: 2px solid #bcbcbc;
+}
+
+.logo:hover {
+	border: 3px solid #414141;
+}
